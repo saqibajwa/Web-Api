@@ -1,0 +1,12 @@
+C:\Users\Saqib Bajwa\source\repos\WebWithAPI\WebWithAPI\Shared\bin\Debug\net6.0\WebWithAPI.Shared.deps.json
+C:\Users\Saqib Bajwa\source\repos\WebWithAPI\WebWithAPI\Shared\bin\Debug\net6.0\WebWithAPI.Shared.dll
+C:\Users\Saqib Bajwa\source\repos\WebWithAPI\WebWithAPI\Shared\bin\Debug\net6.0\WebWithAPI.Shared.pdb
+C:\Users\Saqib Bajwa\source\repos\WebWithAPI\WebWithAPI\Shared\obj\Debug\net6.0\WebWithAPI.Shared.csproj.AssemblyReference.cache
+C:\Users\Saqib Bajwa\source\repos\WebWithAPI\WebWithAPI\Shared\obj\Debug\net6.0\WebWithAPI.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Saqib Bajwa\source\repos\WebWithAPI\WebWithAPI\Shared\obj\Debug\net6.0\WebWithAPI.Shared.AssemblyInfoInputs.cache
+C:\Users\Saqib Bajwa\source\repos\WebWithAPI\WebWithAPI\Shared\obj\Debug\net6.0\WebWithAPI.Shared.AssemblyInfo.cs
+C:\Users\Saqib Bajwa\source\repos\WebWithAPI\WebWithAPI\Shared\obj\Debug\net6.0\WebWithAPI.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Saqib Bajwa\source\repos\WebWithAPI\WebWithAPI\Shared\obj\Debug\net6.0\WebWithAPI.Shared.dll
+C:\Users\Saqib Bajwa\source\repos\WebWithAPI\WebWithAPI\Shared\obj\Debug\net6.0\refint\WebWithAPI.Shared.dll
+C:\Users\Saqib Bajwa\source\repos\WebWithAPI\WebWithAPI\Shared\obj\Debug\net6.0\WebWithAPI.Shared.pdb
+C:\Users\Saqib Bajwa\source\repos\WebWithAPI\WebWithAPI\Shared\obj\Debug\net6.0\ref\WebWithAPI.Shared.dll
